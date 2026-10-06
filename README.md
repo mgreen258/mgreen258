@@ -1,16 +1,46 @@
-## Hi there 👋
+# Mario Green 👋
 
-<!--
-**mgreen258/mgreen258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub.
 
-Here are some ideas to get you started:
+I'm an undergraduate student at the University of
+Maryland Global Campus, using this profile to keep
+track of my learning, explore technology, and develop
+new skills along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Journey
+
+**University:** University of Maryland Global Campus  
+**Program:** Undergraduate — Non-Degree Seeking  
+**Current Study:** BEHS 103 — Technology in Contemporary Society
+
+## 🖥️ Areas I'm Exploring
+
+- Technology and everyday life
+- Digital tools
+- Modern society
+- Online learning
+- Technology trends
+- Practical digital skills
+
+## 🔎 What I'm Focused On
+
+I'm currently exploring how technology connects with
+contemporary society while building a stronger
+foundation of digital knowledge.
+
+## 📈 Personal Growth
+
+I'm interested in learning by doing, experimenting
+with new tools, and gradually turning new knowledge
+into practical skills.
+
+## 🌱 Next Steps
+
+Keep learning.  
+Try new things.  
+Build useful projects.  
+Keep improving.
+
+---
+
+### ⚡ Learning in progress...
